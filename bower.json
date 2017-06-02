@@ -1,0 +1,23 @@
+{
+  "name": "node-chatroom",
+  "description": "",
+  "main": "",
+  "authors": [
+    "james <jamesolof@startmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "socket.io-client": "^2.0.2"
+  }
+}
