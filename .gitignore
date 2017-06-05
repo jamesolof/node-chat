@@ -8,7 +8,6 @@ node_modules
 *.user
 
 # Build Artifact Files
-bin
 obj
 
 *.lock.json
